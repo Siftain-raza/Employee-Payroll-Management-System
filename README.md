@@ -159,14 +159,4 @@ Through this project I learned:
 
 ---
 
-## 👨‍💻 Author
-
-**Siftainraza J Baligar**
-
-- 📧 Email: siftainrazajb@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/siftainraza-j-baligar
-- 💻 GitHub: https://github.com/Siftain-raza
-
----
-
 ⭐ If you found this project useful, please consider giving it a **Star** on GitHub.
