@@ -3,7 +3,6 @@
 ![Bash](https://img.shields.io/badge/Bash-Shell-green?logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=linux)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📖 Overview
 
